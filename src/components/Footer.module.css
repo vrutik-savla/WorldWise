@@ -1,0 +1,9 @@
+.footer {
+  margin-top: auto;
+  padding-top: 1.5rem;
+}
+
+.copyright {
+  font-size: 1.2rem;
+  color: var(--color-light--1);
+}

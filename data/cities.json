@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "9c4d",
+      "cityName": "Mumbai",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-03-05T04:54:18.008Z",
+      "notes": "Sanpada",
+      "position": {
+        "lat": "18.916679786648565",
+        "lng": "72.87961446664872"
+      }
+    },
+    {
+      "id": "34ca",
+      "cityName": "Ahmedabad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-03-05T05:01:35.997Z",
+      "notes": "Ahmedabad",
+      "position": {
+        "lat": "23.01907618729305",
+        "lng": "72.66008667601449"
+      }
+    },
+    {
+      "id": "6393",
+      "cityName": "Mandvi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-03-05T05:06:01.088Z",
+      "notes": "Mandvi",
+      "position": {
+        "lat": "22.85719470096965",
+        "lng": "69.36402560698795"
+      }
+    },
+    {
+      "id": "5a7e",
+      "cityName": "Gir Gadhda",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-03-05T05:06:38.892Z",
+      "notes": "Girnar",
+      "position": {
+        "lat": "21.00247105435674",
+        "lng": "70.9898033976222"
+      }
+    },
+    {
+      "id": "f7e8",
+      "cityName": "Sawai Madhopur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-03-05T05:09:30.852Z",
+      "notes": "Sawai",
+      "position": {
+        "lat": "26.07652055985697",
+        "lng": "76.41582071983844"
+      }
+    }
+  ]
+}
